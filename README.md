@@ -1,7 +1,3 @@
-Here's an **improved and professional** **README.md** with better formatting, clarity, and structure. It includes **installation, features, usage, architecture, technologies, and future scope.**  
-
----
-
 # 🚀 AI-Powered Brain-Mapping and Visualization Tool
 
 ## 📌 Overview
